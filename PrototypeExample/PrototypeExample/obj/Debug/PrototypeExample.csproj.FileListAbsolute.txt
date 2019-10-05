@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe.config
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.pdb
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.exe
+C:\Users\rodri\source\repos\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.pdb

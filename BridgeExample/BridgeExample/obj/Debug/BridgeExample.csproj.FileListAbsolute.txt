@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.exe.config
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.exe
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\bin\Debug\BridgeExample.pdb
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.exe
+C:\Users\rodri\source\repos\BridgeExample\BridgeExample\obj\Debug\BridgeExample.pdb

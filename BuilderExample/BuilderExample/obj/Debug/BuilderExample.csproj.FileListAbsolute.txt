@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\bin\Debug\BuilderExample.exe.config
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\bin\Debug\BuilderExample.exe
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\bin\Debug\BuilderExample.pdb
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\obj\Debug\BuilderExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\obj\Debug\BuilderExample.exe
+C:\Users\rodri\source\repos\BuilderExample\BuilderExample\obj\Debug\BuilderExample.pdb
